@@ -9,7 +9,7 @@
 With [fisherman]
 
 ```
-fisher pyenv
+fisher install bonds/fisherman-pyenv
 ```
 
 ## Notes
